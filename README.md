@@ -57,7 +57,7 @@ docker-compose -f docker-compose.dev.yml up
 ```
 
 ## How to Deploy
-  - [read this file](https://github.com/cs48kblockchain/NFTSuits-DApp/blob/main/NFTSuitsExplained.pdf)
+  - [read this file](https://docs.google.com/document/d/15DVsJrgqgdd-DC_xgbWGQWcOPiM9pKXTopugIjup2rI/edit?usp=sharing)
 
 ## Screenshots
 <p align="center">
@@ -83,6 +83,33 @@ docker-compose -f docker-compose.dev.yml up
 <p align="center">
     <h3>Avatars Page</h3>
     <img src="https://github.com/NFTSuits/NFT-Marketplace-DApp/blob/main/NFTSuits%20images/avatar-page.png"/>
+</p>
+
+<div align="center" > 
+<img  height="220" src="https://raw.githubusercontent.com/Meeting-Scheduler-Chatbot/website/main/website-images/schedule_algorithm_timing_figures/Figure_1.png"/>
+<img  height="220" src="https://raw.githubusercontent.com/Meeting-Scheduler-Chatbot/website/main/website-images/schedule_algorithm_timing_figures/Figure_2.png"/>
+<img  height="220" src="https://raw.githubusercontent.com/Meeting-Scheduler-Chatbot/website/main/website-images/schedule_algorithm_timing_figures/Figure_3.png"/>
+</div>
+<p align="center">
+    <img height="250" src="https://raw.githubusercontent.com/Meeting-Scheduler-Chatbot/website/main/website-images/schedule_algorithm_timing_figures/Figure_4.png"/>
+</p>
+<p align="center">
+    <img height="250" src="https://raw.githubusercontent.com/Meeting-Scheduler-Chatbot/website/main/website-images/schedule_algorithm_timing_figures/Figure_5.png"/>
+</p>
+<p align="center">
+    <img height="250" src="https://raw.githubusercontent.com/Meeting-Scheduler-Chatbot/website/main/website-images/schedule_algorithm_timing_figures/Figure_6.png"/>
+</p>
+<p align="center">
+    <img height="250" src="https://raw.githubusercontent.com/Meeting-Scheduler-Chatbot/website/main/website-images/schedule_algorithm_timing_figures/Figure_7.png"/>
+</p>
+<p align="center">
+    <img height="250" src="https://raw.githubusercontent.com/Meeting-Scheduler-Chatbot/website/main/website-images/schedule_algorithm_timing_figures/Figure_8.png"/>
+</p>
+<p align="center">
+    <img height="250" src="https://raw.githubusercontent.com/Meeting-Scheduler-Chatbot/website/main/website-images/schedule_algorithm_timing_figures/Figure_9.png"/>
+</p>
+<p align="center">
+    <img  height="250" src="https://raw.githubusercontent.com/Meeting-Scheduler-Chatbot/website/main/website-images/schedule_algorithm_timing_figures/Figure_10.png"/>
 </p>
 
 ## Support and Feedback
