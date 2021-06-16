@@ -14,8 +14,15 @@ In the end of the project, a flow is created such that a user can register the w
 2. [Tech Stack](#tech-stack)
 3. [Deliverables](#deliverables)
 4. [How to Run Docker](#how-to-run-docker)
-5. [Screenshots](#screenshots)
-6. [Support and Feedback](#support-and-feedback)
+5. [How to Deploy](#how-to-deploy)
+6. [Screenshots](#screenshots)
+    - [Flow](#flow)
+    - [Dashboard](#dashboard)
+    - [Example Conversations](#example-conversations)
+    - [Analyzer](#analyzer)
+    - [Scheduling Algorithm Explained](#scheduling-algorithm-explained)
+    - [Scheduling Algorithm Timing Graphs](#scheduling-algorithm-timing-graphs)
+8. [Support and Feedback](#support-and-feedback)
 
 ## Authors
 - [@cavitcakir](https://www.github.com/cavitcakir)
@@ -67,7 +74,7 @@ docker-compose -f docker-compose.dev.yml up
 </div>
 
 
-### Dashboard Screen Shots
+### Dashboard
 <div align="center">
 <img   src="https://raw.githubusercontent.com/Meeting-Scheduler-Chatbot/website/main/website-images/front-end-images/page_signup.png"/>
 <img   src="https://raw.githubusercontent.com/Meeting-Scheduler-Chatbot/website/main/website-images/front-end-images/page_signin.png"/>
