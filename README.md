@@ -1,5 +1,5 @@
 
-# Website
+# Meeting Scheduler Chatbot
 
 Scheduling a meeting is a really time-consuming task. We are planning to make this process easier by developing a chatbot with a special scheduling algorithm which is based on participants calendar information that we will access by authenticating users calendars. This way users will not suffer because of the looping mail traffic while arranging meetings and they can focus on their tasks. We decided to develop a chatbot since we can integrate it with the tools that are used in the industry, such as Slack or Microsoft Teams.
 
@@ -22,7 +22,7 @@ In the end of the project, a flow is created such that a user can register the w
     - [Analyzer](#analyzer)
     - [Scheduling Algorithm Explained](#scheduling-algorithm-explained)
     - [Scheduling Algorithm Timing Graphs](#scheduling-algorithm-timing-graphs)
-8. [Support and Feedback](#support-and-feedback)
+8. [Feedback](#feedback)
 
 ## Authors
 - [@cavitcakir](https://www.github.com/cavitcakir)
@@ -117,5 +117,5 @@ docker-compose -f docker-compose.dev.yml up
 <img  height="220" src="https://raw.githubusercontent.com/Meeting-Scheduler-Chatbot/website/main/website-images/schedule_algorithm_timing_figures/Figure_10.png"/>
 </div>
 
-## Support and Feedback
+## Feedback
 Feel free to create an issue to discuss more.
