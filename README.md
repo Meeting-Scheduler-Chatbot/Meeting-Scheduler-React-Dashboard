@@ -41,9 +41,8 @@ Scheduling a meeting is a really time-consuming task. We are planning to make th
 </p>
 
 ## Deliverables
-   - [report](https://github.com/cs48kblockchain/NFTSuits-DApp/blob/main/NFTSuitsExplained.pdf)
-   - [presentation](https://github.com/cs48kblockchain/NFTSuits-DApp/blob/main/Presentation.pdf)
-   - [project structure chart]()
+   - [report](https://github.com/Meeting-Scheduler-Chatbot/website/blob/main/website-images/ens491.pdf)
+   - [presentation](https://github.com/Meeting-Scheduler-Chatbot/website/blob/main/website-images/ENS492%20Presentation.pdf)
 
 ## How to Run Docker
 ```shell
