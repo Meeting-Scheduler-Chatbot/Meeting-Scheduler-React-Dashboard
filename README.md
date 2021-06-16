@@ -43,6 +43,7 @@ Scheduling a meeting is a really time-consuming task. We are planning to make th
 ## Deliverables
    - [report](https://github.com/Meeting-Scheduler-Chatbot/website/blob/main/website-images/ens491.pdf)
    - [presentation](https://github.com/Meeting-Scheduler-Chatbot/website/blob/main/website-images/ENS492%20Presentation.pdf)
+   - [chart](https://lucid.app/publicSegments/view/f1aacb7a-91e0-4d8b-af27-bda16af04d4e/image.png)
 
 ## How to Run Docker
 ```shell
