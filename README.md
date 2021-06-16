@@ -85,32 +85,19 @@ docker-compose -f docker-compose.dev.yml up
     <img src="https://github.com/NFTSuits/NFT-Marketplace-DApp/blob/main/NFTSuits%20images/avatar-page.png"/>
 </p>
 
+### Scheduling Algorithm Timing Graphs
 <div align="center" > 
 <img  height="220" src="https://raw.githubusercontent.com/Meeting-Scheduler-Chatbot/website/main/website-images/schedule_algorithm_timing_figures/Figure_1.png"/>
 <img  height="220" src="https://raw.githubusercontent.com/Meeting-Scheduler-Chatbot/website/main/website-images/schedule_algorithm_timing_figures/Figure_2.png"/>
 <img  height="220" src="https://raw.githubusercontent.com/Meeting-Scheduler-Chatbot/website/main/website-images/schedule_algorithm_timing_figures/Figure_3.png"/>
+<img height="220" src="https://raw.githubusercontent.com/Meeting-Scheduler-Chatbot/website/main/website-images/schedule_algorithm_timing_figures/Figure_4.png"/>
+<img height="220" src="https://raw.githubusercontent.com/Meeting-Scheduler-Chatbot/website/main/website-images/schedule_algorithm_timing_figures/Figure_5.png"/>
+<img height="220" src="https://raw.githubusercontent.com/Meeting-Scheduler-Chatbot/website/main/website-images/schedule_algorithm_timing_figures/Figure_6.png"/>
+<img height="220" src="https://raw.githubusercontent.com/Meeting-Scheduler-Chatbot/website/main/website-images/schedule_algorithm_timing_figures/Figure_7.png"/>
+<img height="220" src="https://raw.githubusercontent.com/Meeting-Scheduler-Chatbot/website/main/website-images/schedule_algorithm_timing_figures/Figure_8.png"/>
+<img height="220" src="https://raw.githubusercontent.com/Meeting-Scheduler-Chatbot/website/main/website-images/schedule_algorithm_timing_figures/Figure_9.png"/>
+<img  height="220" src="https://raw.githubusercontent.com/Meeting-Scheduler-Chatbot/website/main/website-images/schedule_algorithm_timing_figures/Figure_10.png"/>
 </div>
-<p align="center">
-    <img height="250" src="https://raw.githubusercontent.com/Meeting-Scheduler-Chatbot/website/main/website-images/schedule_algorithm_timing_figures/Figure_4.png"/>
-</p>
-<p align="center">
-    <img height="250" src="https://raw.githubusercontent.com/Meeting-Scheduler-Chatbot/website/main/website-images/schedule_algorithm_timing_figures/Figure_5.png"/>
-</p>
-<p align="center">
-    <img height="250" src="https://raw.githubusercontent.com/Meeting-Scheduler-Chatbot/website/main/website-images/schedule_algorithm_timing_figures/Figure_6.png"/>
-</p>
-<p align="center">
-    <img height="250" src="https://raw.githubusercontent.com/Meeting-Scheduler-Chatbot/website/main/website-images/schedule_algorithm_timing_figures/Figure_7.png"/>
-</p>
-<p align="center">
-    <img height="250" src="https://raw.githubusercontent.com/Meeting-Scheduler-Chatbot/website/main/website-images/schedule_algorithm_timing_figures/Figure_8.png"/>
-</p>
-<p align="center">
-    <img height="250" src="https://raw.githubusercontent.com/Meeting-Scheduler-Chatbot/website/main/website-images/schedule_algorithm_timing_figures/Figure_9.png"/>
-</p>
-<p align="center">
-    <img  height="250" src="https://raw.githubusercontent.com/Meeting-Scheduler-Chatbot/website/main/website-images/schedule_algorithm_timing_figures/Figure_10.png"/>
-</p>
 
 ## Support and Feedback
 Feel free to create an issue to discuss more.
