@@ -60,30 +60,41 @@ docker-compose -f docker-compose.dev.yml up
   - [read this file](https://docs.google.com/document/d/15DVsJrgqgdd-DC_xgbWGQWcOPiM9pKXTopugIjup2rI/edit?usp=sharing)
 
 ## Screenshots
-<p align="center">
-    <h3>Landing Page</h3>
-    <img src="https://github.com/NFTSuits/NFT-Marketplace-DApp/blob/main/NFTSuits%20images/landing-page.png"/>
-</p>
-<p align="center">
-    <h3>Market Place</h3>
-    <img src="https://github.com/NFTSuits/NFT-Marketplace-DApp/blob/main/NFTSuits%20images/marketplace-page.png"/>
-</p>
-<p align="center">
-    <h3>Item Page Example 1</h3>
-    <img src="https://github.com/NFTSuits/NFT-Marketplace-DApp/blob/main/NFTSuits%20images/item-example-1.png"/>
-</p>
-<p align="center">
-    <h3>Item Page Example 2</h3>
-    <img src="https://github.com/NFTSuits/NFT-Marketplace-DApp/blob/main/NFTSuits%20images/item-example-2.png"/>
-</p>
-<p align="center">
-    <h3>Profile Page</h3>
-    <img src="https://github.com/NFTSuits/NFT-Marketplace-DApp/blob/main/NFTSuits%20images/profile-page.png"/>
-</p>
-<p align="center">
-    <h3>Avatars Page</h3>
-    <img src="https://github.com/NFTSuits/NFT-Marketplace-DApp/blob/main/NFTSuits%20images/avatar-page.png"/>
-</p>
+
+### Flow
+<div align="center">
+<img   src="https://raw.githubusercontent.com/Meeting-Scheduler-Chatbot/website/main/website-images/flow.png"/>
+</div>
+
+
+### Dashboard Screen Shots
+<div align="center">
+<img   src="https://raw.githubusercontent.com/Meeting-Scheduler-Chatbot/website/main/website-images/front-end-images/page_signup.png"/>
+<img   src="https://raw.githubusercontent.com/Meeting-Scheduler-Chatbot/website/main/website-images/front-end-images/page_signin.png"/>
+<img   src="https://raw.githubusercontent.com/Meeting-Scheduler-Chatbot/website/main/website-images/front-end-images/page_settings.png"/>
+<img   src="https://raw.githubusercontent.com/Meeting-Scheduler-Chatbot/website/main/website-images/front-end-images/page_my_groups.png"/>
+<img   src="https://raw.githubusercontent.com/Meeting-Scheduler-Chatbot/website/main/website-images/front-end-images/page_group_edit.png"/>
+<img   src="https://raw.githubusercontent.com/Meeting-Scheduler-Chatbot/website/main/website-images/front-end-images/page_add_group.png"/>
+<img   src="https://raw.githubusercontent.com/Meeting-Scheduler-Chatbot/website/main/website-images/front-end-images/google_auth.png"/> 
+</div>
+
+
+### Example Conversations
+<div align="center">
+<img   src="https://raw.githubusercontent.com/Meeting-Scheduler-Chatbot/website/main/website-images/example_slack_conv.png"/>
+<img   src="https://raw.githubusercontent.com/Meeting-Scheduler-Chatbot/website/main/website-images/google-chat-conv.png"/>
+</div>
+
+### Analyzer
+<div align="center"> 
+<img  src="https://raw.githubusercontent.com/Meeting-Scheduler-Chatbot/website/main/website-images/analyzer_2.png"/>
+</div>
+
+
+### Scheduling Algorithm Explained
+<div align="center">
+<img  src="https://raw.githubusercontent.com/Meeting-Scheduler-Chatbot/website/main/website-images/Scheduling_Algorithm_Chart.png"/>
+</div>
 
 ### Scheduling Algorithm Timing Graphs
 <div align="center" > 
